@@ -35,7 +35,7 @@
     <ClCompile Include="Window.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
-    <ClCompile Include="P01-319028414.cpp">
+    <ClCompile Include="mainbase.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
   </ItemGroup>
