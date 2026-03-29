@@ -3,7 +3,7 @@
 # MATERIA: LABORATORIO DE COMPUTACIÓN GRÁFICA E ITERACIÓN HUMANO - COMPUTADORA
 ## GRUPO: 03
 ## SEMESTRE: 2026-2
-## PRÁCTICA 04
+## PRÁCTICA 05
 ## NOMBRE DEL PROFESOR:
 ### ING. ROMAN GUADARRAMAJOSE ROQUE
 ## NOMBRE DEL ALUMNO:
@@ -11,4 +11,4 @@
 
 
 
-### NOTA: La práctica 4 corresponde a Modelado geométrico
+### NOTA: La práctica 5 Optimización y Carga de Modelos
